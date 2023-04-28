@@ -3,3 +3,5 @@ This file contains the Dendro package for R, it is the final assignment in LIS43
 
 
 This file can be accessed with install.packages("Dendro")
+
+My blog post can be found here: https://cameronwhitton.wordpress.com/2023/04/28/lis-4370-final-project-developing-an-r-package/
